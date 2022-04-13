@@ -2,6 +2,6 @@ service_4bdqtiz
 
 template_hgxq536
 
-KH2PQNfUY8NjGIBJY
+key public KH2PQNfUY8NjGIBJY
 
-z5bTmvQvevXdFnhruBR51
+key privé z5bTmvQvevXdFnhruBR51
